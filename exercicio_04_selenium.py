@@ -1,5 +1,6 @@
 from selenium.webdriver import Firefox
 from time import sleep
+from urllib.parse import urlparse
 
 
 
